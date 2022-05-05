@@ -5,7 +5,7 @@
 获取回测区间每个月index对应的标的  
 2. get_symbol_info.ipynb  
 获取上述所有标的的行业信息，并汇总  
-3. get_minute_data.iptnb 
+3. get_minute_data.iptnb  
 获取分钟数据，用于构造因子  
 4. data_daily_factor_cal.py  
 计算用于合成最终月频因子的日频数据  
