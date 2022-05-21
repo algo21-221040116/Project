@@ -13,9 +13,11 @@
 计算最终所用的月频因子，以及生成CS-Factor(时间截面的所有因子信息)，用于下一步回测及因子研究
 6. process_cs_fac.py  
 对CS-Factor因子数据进行市值行业中性化处理并保存  
-7. port_selection.py  
+7. fac_study.ipynb  
+研究计算各因子ICIR值的情况  
+8. port_selection.py  
 进行五组portfolios筛选  
-8. port_backtest.py  
+9. port_backtest.py  
 对所有因子的五分组及对冲组合进行回测  
-9. result_analyze.py  
+10. result_analyze.py  
 对回测结果进行分析
